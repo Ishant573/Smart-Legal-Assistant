@@ -1,0 +1,6 @@
+{
+  "name": "Smart Legal Assistant",
+  "description": "AI-powered legal platform for Indian laws (IPC/BNS, BNSS, BSA, Constitution), FIR guidance, document analyzer, and bilingual legal research.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
